@@ -1,3 +1,1 @@
-# Introduction to Python
-
-A two-day Introduction to Python for the REU in Computational Biology for previously incarcerated students.
+# Two-day Introduction to Python for the REU in Computational Biology for previously incarcerated students (Princeton University)
